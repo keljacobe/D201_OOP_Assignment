@@ -1,0 +1,18 @@
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\bin\Debug\D201_OOP_Assignment.exe.config
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.csprojResolveAssemblyReference.cache
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.Form1.resources
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.Properties.Resources.resources
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.csproj.GenerateResource.Cache
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\bin\Debug\D201_OOP_Assignment.exe
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\bin\Debug\D201_OOP_Assignment.pdb
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.exe
+H:\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.pdb
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\bin\Debug\D201_OOP_Assignment.exe.config
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.exe
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.csprojResolveAssemblyReference.cache
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.Form1.resources
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.Properties.Resources.resources
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.csproj.GenerateResource.Cache
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\bin\Debug\D201_OOP_Assignment.exe
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\bin\Debug\D201_OOP_Assignment.pdb
+D:\BICT\Year 2\Advance Programming\D201_OOP_Assignment\D201_OOP_Assignment\obj\Debug\D201_OOP_Assignment.pdb

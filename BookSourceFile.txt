@@ -1,0 +1,12 @@
+PB,A Tale of Two Cities,Charles Dickens,1859,300g,623
+PB,The Hobbit,J. R. R. Tolkien,1937,450g,852
+EB,To Kill a Mockingbird,Harper Lee,1960,3mb,PDF,1204
+AB,The Godfather,Mario Puzo,1969,4mb,12 hours,Morgan Freeman
+AB,The Grapes of Wrath,John Steinbeck,1939,5mb,17 hours,Morgan Freeman
+EB,Gone with the Wind,Margaret Mitchell,1936,2mb,XPS,987
+EB,The Wind in the Willows,Kenneth Grahame,1908,10mb,PDF,846
+AB,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,15mb,25 hours,Tom Hanks
+PB,The Catcher in the Rye,J. D. Salinger,1951,500g,1102
+PB,The Bridges of Madison County,Robert James Waller,1992,400g,874
+EB,The Tale of Peter Rabbit,Beatrix Potter,1902,16mb,PDF,743
+AB,Nineteen Eighty-Four,George Orwell,1949,10mb,10 hours,Patrick Stewart
